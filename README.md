@@ -9,3 +9,4 @@ Contact Button: Users can directly view a contact number via a dialog box to inq
 Image Display: Uses a cached network image feature for smooth loading of property images with placeholders and error handling.
 Property Details: Includes details like price, address, and property type (e.g., house, apartment) and uses icons to indicate bedrooms and bathrooms.
 User-Friendly Interface: Clean and responsive design with material and pastel-themed aesthetics.
+its also cover api
